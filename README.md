@@ -5,7 +5,7 @@
  
  Youtube video:
  
- 
+ https://youtu.be/2wHED_9uU8U
  
 Deploying ReactJS Apps - Weather Forecast - on SAP Cloud Platform
 
@@ -22,7 +22,11 @@ Deploying ReactJS Apps - Weather Forecast - on SAP Cloud Platform
 6. cf push 
 
 
+Ensure that your system meets all prerequisites before installing the apps:
 
+1. install cloud foundry - cli command
+
+2. install nodejs LTS / npm
 
 References:
 
