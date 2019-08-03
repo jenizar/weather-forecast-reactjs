@@ -11,7 +11,7 @@ Deploying ReactJS Apps - Weather Forecast - on SAP Cloud Platform
 
 1. git clone https://github.com/jenizar/weather-forecast-reactjs.git
 
-2. cd weather-app
+2. cd weather-forecast-reactjs
 
 3. npm install
 
