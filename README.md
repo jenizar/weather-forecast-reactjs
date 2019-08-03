@@ -1,5 +1,5 @@
 # weather-forecast-reactjs
- Deploying ReactJS - weather-forecast - on SAP Cloud Platform
+ Deploying ReactJS - Weather Forecast - on SAP Cloud Platform
  
  ![alt text](https://github.com/jenizar/weather-forecast-reactjs/blob/master/Screenshot.png)
  
